@@ -12,7 +12,7 @@ Este preprocesamiento permite trabajar con datos más limpios y estructurados, l
 
 Después de esto, importamos los datos que provienen de un archivo CSV que luego se convierte en modelos de Pydantic y creamos los endpoints de FastAPI en una estructura jerárquica de tres niveles para consultar estudiantes a partir de los datos proporcionados por un archivo CSV. A continuación se detalla las peticiones disponibles:
 
-## Primer niveñl
+## Primer nivel
 
 1. GET /alumnos/
 Devuelve todos los alumnos registrados.
